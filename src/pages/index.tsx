@@ -2,7 +2,7 @@ import React from "react"
 import Link from "next/link"
 
 import Layout from "../components/Layout"
-// import CarbonAdUnit from "../components/CarbonAdUnit"
+
 
 const IndexPage = () => (
   <Layout>
@@ -17,7 +17,6 @@ const IndexPage = () => (
         <a className="HomePage-link">Letterspacing</a>
       </Link>
     </div>
-    // <CarbonAdUnit />
   </Layout>
 )
 
