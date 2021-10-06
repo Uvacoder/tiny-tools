@@ -17,7 +17,7 @@ const IndexPage = () => (
         <a className="HomePage-link">Letterspacing</a>
       </Link>
     </div>
-    <CarbonAdUnit />
+    // <CarbonAdUnit />
   </Layout>
 )
 
